@@ -1,0 +1,16 @@
+nav li{
+   list-style: none;
+   margin: 20px;
+}
+nav li a{
+    text-decoration: none;
+    color: rgb(3, 29, 29);
+    font-size: 20px;
+    padding: 0px 10px;
+}
+nav li:hover{
+    background-color: brown;
+}
+nav ul {
+    display: flex;
+}
